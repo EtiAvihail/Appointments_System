@@ -1,0 +1,5 @@
+Jhonny Depp 1234 45
+LEonardo Dicaprio 1111 40
+Will Smith William 20
+Meryl Streep 1234 50
+Charlize theron 1234 80
